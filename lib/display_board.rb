@@ -1,4 +1,4 @@
-def A_Tic_Tac_Toe_Board
+def display_board
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
